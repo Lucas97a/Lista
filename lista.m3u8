@@ -1,11 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="BRASIL", GLOBO
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="CANAIS ABERTO", GLOBO
 https://live-as-10-28.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMTAtMjgudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzQyNDg3MDQwLCJpYXQiOjE3NDI0MDA2NDAsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiOGVkNmU4MjgtZjk1Ni00MGMzLWI3MmQtMzE2ODUyN2E4Nzc2IiwicGF0aCI6Ii9udS9mKGk9MikvZ2xvYm8tdmFyL3BsYXlsaXN0Lm0zdTgifQ.hxT6C__GBDT-SKj7a3H2_GbIRlSpvbnx2RK164-TmDwb8OajcL69vIiPQVv1eEgLK3-vF-JEZCRdYI9BDP9P-UPdM5rb5UfXdImSCwhrjFFwVF92Tf2VUibLsdPFNBXfo-1U0SmYx1oCC-1bMs0nZmOKQtVO_-Lrfa3YSXceH-WLmdcCcN8YZzGk43qTlIOiWFiea3lH1_mpAvgmk_t5w8DryDi441yqmAKcvbmUYtPuHYmFKEs8unJDwOSOmdDBDthz-iZH-nH5JWpCFwkFKm29JJXFSSLadTEPP-AYqfT-Vk1hkp1sfy4UjjBFDexcQQjX-KRv-FEJ9xeT_VJjUA/nu/f(i=2)/globo-var/globo-var-audio_1=96000-video=2262976.m3u8
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="BRASIL",ESPN
-http://supersonictv.live:8080/380830/513976/84979
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="BRASIL", ESPN 2
-http://supersonictv.live:8080/380830/513976/84981
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="BRASIL", ESPN 3
-http://supersonictv.live:8080/380830/513976/84978
-#EXTINF:-1 tvg-id="Record SP" tvg-name="Record SP" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="BRASIL",Record SP
+#EXTINF:-1 tvg-id="Record SP" tvg-name="Record SP" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="CANAIS ABERTO",Record SP
 https://alanza.iptv2022.com/sh/RecordTV/index.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="ESPN",ESPN
+http://supersonictv.live:8080/380830/513976/84979
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://imgur.com/0aP1oW1.png" group-title="ESPN", ESPN 2
+http://supersonictv.live:8080/380830/513976/84981
+#EXTINF:-1 tvg-id="" tvg-name="[BR] ESPN 2 FHD" tvg-logo="https://tvpediabrasil.fandom.com/pt-br/wiki/ESPN_3?file=Espn3logo.jpg" group-title="ESPN", ESPN 3
+http://supersonictv.live:8080/380830/513976/84978
+#EXTINF:-1 tvg-id="Sportv" tvg-name="SporTV" tvg-logo="https://imgur.com/sopEkNk.png" group-title="SPORTV", SporTV
+http://supersonictv.live:8080/380830/513976/85095
+#EXTINF:-1 tvg-id="Sportv 2" tvg-name="SporTV 2" tvg-logo="" group-title="SPORTV", SporTV 2
+http://supersonictv.live:8080/380830/513976/85093
+#EXTINF:-1 tvg-id="Sportv 3" tvg-name="SporTV 3" tvg-logo="" group-title="SPORTV", SporTV 3
+http://supersonictv.live:8080/380830/513976/85094
+#EXTINF:-1 tvg-id="Sportv 4" tvg-name="SporTV 4" tvg-logo="" group-title="SPORTV", SporTV 4
+http://supersonictv.live:8080/380830/513976/85387
