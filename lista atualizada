@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="CANAIS ABERTO", GLOBO
+https://live-as-03-35.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDMtMzUudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzQyNTgwODA3LCJpYXQiOjE3NDI0OTQ0MDcsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiOGVkNmU4MjgtZjk1Ni00MGMzLWI3MmQtMzE2ODUyN2E4Nzc2IiwicGF0aCI6Ii9udS9mKGk9MikvZ2xvYm8tdmFyL3BsYXlsaXN0Lm0zdTgifQ.EXv6i22dWje6NmlGoq_7sULw55tIrRqWfcv8V_zQFIGYChTqBn4QseZCPXywH2ew6csp2yyLNLdXEHOib6aQiCfVuFHxmJQGFRePI32yWZBPXeydavgLMTclkbqHOwzWNs3bsunJWuasgc3X4qMdLlMy5UmCd5fyzGw_OtPfpqXHjI2rYgvj7C6x-aV5gQdQKFo8FI1O0FAfhFG1-3nbGhYP1_ODNGzDofVfDHK2XpGhyszrE95MCasIEVAR8sCD6onzAXF3g_DjfR4EZayMajCNn6KfcGWsXjWVL4bKRW13sL4eDSoyTzKxTdhaLB19qjOnruSibXZq6PGL8CcWiA/nu/f(i=2)/globo-var/globo-var-audio_1=96000-video=3442944.m3u8
+#EXTINF:-1 tvg-id="Record SP" tvg-name="Record SP" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="CANAIS ABERTO",Record SP
+https://alanza.iptv2022.com/sh/RecordTV/index.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="ESPN",ESPN
+http://supersonictv.live:8080/380830/513976/84979
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="ESPN", ESPN 2
+http://supersonictv.live:8080/380830/513976/84981
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="ESPN", ESPN 3
+http://supersonictv.live:8080/380830/513976/84978
+#EXTINF:-1 tvg-id="Sportv" tvg-name="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="SPORTV", SporTV
+http://supersonictv.live:8080/380830/513976/85095
+#EXTINF:-1 tvg-id="Sportv 2" tvg-name="SporTV 2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="SPORTV", SporTV 2
+http://supersonictv.live:8080/380830/513976/85093
+#EXTINF:-1 tvg-id="Sportv 3" tvg-name="SporTV 3" tvg-logo="https://i.imgur.com/ttHpdGp.png" group-title="SPORTV", SporTV 3
+http://supersonictv.live:8080/380830/513976/85094
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes" tvg-logo="" group-title="PREMIERE", Premiere Clubes
+http://supersonictv.live:8080/812493/376688/85068
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2" tvg-logo="" group-title="PREMIERE", Premiere 2
+http://supersonictv.live:8080/812493/376688/85062
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3" tvg-logo="" group-title="PREMIERE", Premiere 3
+http://supersonictv.live:8080/812493/376688/85063
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4" tvg-logo="" group-title="PREMIERE", Premiere 4
+http://supersonictv.live:8080/812493/376688/85064
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5" tvg-logo="" group-title="PREMIERE", Premiere 5
+http://supersonictv.live:8080/812493/376688/85065
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6" tvg-logo="" group-title="PREMIERE", Premiere 6
+http://supersonictv.live:8080/812493/376688/85066
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7" tvg-logo="" group-title="PREMIERE", Premiere 7
+http://supersonictv.live:8080/812493/376688/85067
