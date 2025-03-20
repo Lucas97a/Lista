@@ -4,5 +4,5 @@ https://live-as-10-28.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAi
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="BRASIL",ESPN
 http://supersonictv.live:8080/380830/513976/84979
 
-#EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://imgur.com/RfVr4li" group-title="BRASIL",Cultura
+#EXTINF:-1 tvg-id="Cultura" tvg-name="Cultura" tvg-logo="https://imgur.com/RfVr4li.img" group-title="BRASIL",Cultura
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w2020384449.m3u8
