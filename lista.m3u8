@@ -5,33 +5,33 @@ https://tvsmarters.org/globosp/tracks-v1a1/mono.ts.m3u8
 https://tvsmarters.org/recordsp/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="ESPN",ESPN
 https://tvsmarters.org/espn/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="ESPN", ESPN 2
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="ESPN", ESPN 2
 https://tvsmarters.org/espn2/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="ESPN", ESPN 3
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="ESPN", ESPN 3
 https://tvsmarters.org/espn3/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="ESPN", ESPN 4
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="ESPN", ESPN 4
 https://tvsmarters.org/espn4/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 5" tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="ESPN", ESPN 5
+#EXTINF:-1 tvg-id="ESPN 5" tvg-name="ESPN 5" tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="ESPN", ESPN 5
 https://tvsmarters.org/espn5/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 6" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/9/98/Espn6.png/revision/latest?cb=20240217221037&path-prefix=pt-br" group-title="ESPN", ESPN 6
+#EXTINF:-1 tvg-id="ESPN 6" tvg-name="ESPN 6" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/9/98/Espn6.png/revision/latest?cb=20240217221037&path-prefix=pt-br" group-title="ESPN", ESPN 6
 https://tvsmarters.org/espn6/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Sportv" tvg-name="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="SPORTV", SporTV
 https://tvsmarters.org/sportv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Sportv 2" tvg-name="SporTV 2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="SPORTV", SporTV 2
 https://tvsmarters.org/sportv2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Sportv 3" tvg-name="SporTV 3" tvg-logo="https://i.imgur.com/ttHpdGp.png" group-title="SPORTV", SporTV 3
-https://tvsmarters.org/sport3/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes" tvg-logo="" group-title="PREMIERE", Premiere Clubes
+https://tvsmarters.org/sportv3/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="" group-title="PREMIERE", Premiere Clubes
 https://tvsmarters.org/premiereclubes/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 2" tvg-logo="" group-title="PREMIERE", Premiere 2
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2" tvg-logo="" group-title="PREMIERE", Premiere 2
 https://tvsmarters.org/premiere2/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 3" tvg-logo="" group-title="PREMIERE", Premiere 3
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3" tvg-logo="" group-title="PREMIERE", Premiere 3
 https://tvsmarters.org/premiere3/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 4" tvg-logo="" group-title="PREMIERE", Premiere 4
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4" tvg-logo="" group-title="PREMIERE", Premiere 4
 https://tvsmarters.org/premiere4/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 5" tvg-logo="" group-title="PREMIERE", Premiere 5
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5" tvg-logo="" group-title="PREMIERE", Premiere 5
 https://tvsmarters.org/premiere5/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 6" tvg-logo="" group-title="PREMIERE", Premiere 6
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6" tvg-logo="" group-title="PREMIERE", Premiere 6
 https://tvsmarters.org/premiere6/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Premiere 7" tvg-logo="" group-title="PREMIERE", Premiere 7
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7" tvg-logo="" group-title="PREMIERE", Premiere 7
 https://tvsmarters.org/premiere7/tracks-v1a1/mono.ts.m3u8
