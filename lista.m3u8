@@ -10,7 +10,7 @@ http://supersonictv.live:8080/380830/513976/84981
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="ESPN", ESPN 3
 http://supersonictv.live:8080/380830/513976/84978
 #EXTINF:-1 tvg-id="Sportv" tvg-name="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="SPORTV", SporTV
-http://supersonictv.live:8080/380830/513976/85095
+https://tvsmarters.org/sportv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Sportv 2" tvg-name="SporTV 2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="SPORTV", SporTV 2
 https://tvsmarters.org/sportv2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Sportv 3" tvg-name="SporTV 3" tvg-logo="https://i.imgur.com/ttHpdGp.png" group-title="SPORTV", SporTV 3
