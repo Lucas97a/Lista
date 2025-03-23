@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="CANAIS ABERTO", GLOBO
 https://tvsmarters.org/globosp/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Globo News" tvg-name="Globo News" tvg-logo="https://i.imgur.com/MDVaMXs.png" group-title="CANAIS ABERTO", GLOBO NEWS
+https://tvsmarters.org/globonews/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Record SP" tvg-name="Record SP" tvg-logo="https://i.imgur.com/GJxRcCd.png" group-title="CANAIS ABERTO",Record SP
 https://tvsmarters.org/recordsp/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="ESPN",ESPN
