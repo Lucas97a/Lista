@@ -35,3 +35,5 @@ https://tvsmarters.org/premiere4/tracks-v1a1/mono.ts.m3u8
 https://tvsmarters.org/premiere5/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6" tvg-logo="https://i.imgur.com/4CAJWni.png" group-title="PREMIERE", Premiere 6
 https://tvsmarters.org/premiere6/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7" tvg-logo="https://i.imgur.com/XqTjkAw.png" group-title="PREMIERE", Premiere 7
+https://tvsmarters.org/premiere7/tracks-v1a1/mono.ts.m3u8
