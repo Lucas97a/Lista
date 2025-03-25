@@ -7,6 +7,8 @@ https://tvsmarters.org/globonews/tracks-v1a1/mono.ts.m3u8
 https://tvsmarters.org/recordsp/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/qd7j9IQ.png" group-title="CANAIS ABERTO", SBT
 https://tvsmarters.org/sbtsp/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="SBT YT" tvg-name="SBT YT" tvg-logo="https://i.imgur.com/qd7j9IQ.png" group-title="CANAIS ABERTO", SBT YT
+https://www.youtube.com/watch?v=ABVQXgr2LW4
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="ESPN",ESPN
 https://tvsmarters.org/espn/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="ESPN", ESPN 2
