@@ -5,6 +5,8 @@ https://tvsmarters.org/globosp/tracks-v1a1/mono.ts.m3u8
 https://cdnlv.online/globonews/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Record SP" tvg-name="Record SP" tvg-logo="https://i.imgur.com/GJxRcCd.png" group-title="CANAIS ABERTO",RECORD SP
 https://cdnlv.online/record/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Record SP" tvg-name="Record SP" tvg-logo="https://i.imgur.com/GJxRcCd.png" group-title="CANAIS ABERTO",RECORD SP
+https://alanza.iptv2022.com/sh/RecordTV/index.m3u8?
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/qd7j9IQ.png" group-title="CANAIS ABERTO", SBT
 https://cdnlv.online/sbt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SBT YT" tvg-name="SBT YT" tvg-logo="https://i.imgur.com/qd7j9IQ.png" group-title="CANAIS ABERTO", SBT YT
