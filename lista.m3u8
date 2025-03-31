@@ -1,45 +1,45 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="CANAIS ABERTO", GLOBO
-https://tvsmarters.org/globosp/tracks-v1a1/mono.ts.m3u8
+https://embedcanaisdetv.site/globosp/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Globo News" tvg-name="Globo News" tvg-logo="https://i.imgur.com/MDVaMXs.png" group-title="CANAIS ABERTO", GLOBO NEWS
-https://cdnlv.online/globonews/tracks-v1a1/mono.m3u8
+https://embedcanaisdetv.site/globonews/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Record SP" tvg-name="Record SP" tvg-logo="https://i.imgur.com/GJxRcCd.png" group-title="CANAIS ABERTO",RECORD SP
-https://cdnlv.online/record/tracks-v1a1/mono.m3u8
+https://embedcanaisdetv.site/recordsp/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Record SP" tvg-name="Record SP" tvg-logo="https://i.imgur.com/GJxRcCd.png" group-title="CANAIS ABERTO",RECORD SP
 https://alanza.iptv2022.com/sh/RecordTV/index.m3u8?
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/qd7j9IQ.png" group-title="CANAIS ABERTO", SBT
-https://cdnlv.online/sbt/tracks-v1a1/mono.m3u8
+https://embedcanaisdetv.site/sbt/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="SBT YT" tvg-name="SBT YT" tvg-logo="https://i.imgur.com/qd7j9IQ.png" group-title="CANAIS ABERTO", SBT YT
 https://www.youtube.com/watch?v=ABVQXgr2LW4
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="ESPN",ESPN
-https://cdnlv.online/espn/tracks-v1a1/mono.m3u8
+https://embedcanaisdetv.site/espn/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="ESPN", ESPN 2
-https://cdnlv.online/espn2/tracks-v1a1/mono.m3u8
+https://embedcanaisdetv.site/espn2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="ESPN", ESPN 3
-https://cdnlv.online/espn3/tracks-v1a1/mono.m3u8
+https://embedcanaisdetv.site/espn3/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="ESPN", ESPN 4
-https://cdnlv.online/espn4/tracks-v1a1/mono.m3u8
+https://embedcanaisdetv.site/espn4/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ESPN 5" tvg-name="ESPN 5" tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="ESPN", ESPN 5
-https://cdnlv.online/espn5/tracks-v1a1/mono.m3u8
+https://embedcanaisdetv.site/espn5/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ESPN 6" tvg-name="ESPN 6" tvg-logo="https://i.imgur.com/9Ld5XhX.png" group-title="ESPN", ESPN 6
-https://cdnlv.online/espn6/tracks-v1a1/mono.m3u8
+https://embedcanaisdetv.site/espn6/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Sportv" tvg-name="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="SPORTV", SporTV
-https://cdnlv.online/sportv/tracks-v1a1/mono.m3u8
+https://embedcanaisdetv.site/sportv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Sportv 2" tvg-name="SporTV 2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="SPORTV", SporTV 2
-https://cdnlv.online/sportv2/tracks-v1a1/mono.m3u8
+https://embedcanaisdetv.site/sportv2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Sportv 3" tvg-name="SporTV 3" tvg-logo="https://i.imgur.com/ttHpdGp.png" group-title="SPORTV", SporTV 3
-https://cdnlv.online/sportv3/tracks-v1a1/mono.m3u8
+https://embedcanaisdetv.site/sportv3/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="PREMIERE", Premiere Clubes
-https://cdnlv.online/premiereclubes/tracks-v1a1/mono.m3u8
+https://embedcanaisdetv.site/premiereclubes/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="PREMIERE", Premiere 2
-https://cdnlv.online/premiere2/tracks-v1a1/mono.m3u8
+https://embedcanaisdetv.site/premiere2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="PREMIERE", Premiere 3
-https://cdnlv.online/premiere3/tracks-v1a1/mono.m3u8
+https://embedcanaisdetv.site/premiere3/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="PREMIERE", Premiere 4
-https://cdnlv.online/premiere4/tracks-v1a1/mono.m3u8
+https://embedcanaisdetv.site/premiere4/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5" tvg-logo="https://i.imgur.com/qVVCNKG.png" group-title="PREMIERE", Premiere 5
-https://cdnlv.online/premiere5/tracks-v1a1/mono.m3u8
+https://embedcanaisdetv.site/premiere5/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6" tvg-logo="https://i.imgur.com/4CAJWni.png" group-title="PREMIERE", Premiere 6
-https://cdnlv.online/premiere6/tracks-v1a1/mono.m3u8
+https://embedcanaisdetv.site/premiere6/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7" tvg-logo="https://i.imgur.com/XqTjkAw.png" group-title="PREMIERE", Premiere 7
-https://cdnlv.online/premiere7/tracks-v1a1/mono.m3u8
+https://embedcanaisdetv.site/premiere7/tracks-v1a1/mono.ts.m3u8
