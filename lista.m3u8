@@ -29,6 +29,8 @@ https://embedcanaisdetv.site/sportv/tracks-v1a1/mono.ts.m3u8
 https://embedcanaisdetv.site/sportv2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Sportv 3" tvg-name="SporTV 3" tvg-logo="https://i.imgur.com/ttHpdGp.png" group-title="SPORTV", SporTV 3
 https://embedcanaisdetv.site/sportv3/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Sportv 3" tvg-name="Paramount +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Paramount_Plus.svg/1024px-Paramount_Plus.svg.png" group-title="PARAMOUNT PLUS", SporTV 3
+https://embedcanaisdetv.site/paramountplus/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="PREMIERE", Premiere Clubes
 https://embedcanaisdetv.site/premiereclubes/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="PREMIERE", Premiere 2
